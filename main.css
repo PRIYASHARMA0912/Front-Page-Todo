@@ -1,5 +1,4 @@
-body{
-   
+body{  
     background-image: linear-gradient(to right,#ddd6f3 , #faaca8);
 }
 
@@ -28,12 +27,11 @@ img {
 
 
  button{
-    margin-right: 25%;
+    text-align: center;
     background-color:pink;
     font-size: large;
     border-color: black;
-    font-weight: bold;
-    
+    font-weight: bold; 
    border-radius: 10%;
 
 }
