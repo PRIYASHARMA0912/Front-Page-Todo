@@ -1,0 +1,40 @@
+body{
+   
+    background-image: linear-gradient(to right,#ddd6f3 , #faaca8);
+}
+
+
+.container{
+    background-color: aliceblue;
+   
+    width: 50vw;
+    height: 35vh;
+    font-size:25px;
+    border-radius: 100px;   
+    /* margin-bottom: 25vw; */
+    margin-left: 27vw;
+    margin-top: 10vw;
+    
+   
+}
+
+
+img {
+    position: relative;
+}
+
+
+    
+
+
+ button{
+    margin-right: 25%;
+    background-color:pink;
+    font-size: large;
+    border-color: black;
+    font-weight: bold;
+    
+   border-radius: 10%;
+
+}
+
